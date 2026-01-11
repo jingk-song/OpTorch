@@ -1,2 +1,2 @@
 # OpTorch
-### 记录OpTorch库的维护情况
+### Code for the research article "The Intrinsic Superiority of Optical Neural Networks Revealed by Full-Wave Computing".
